@@ -5,9 +5,9 @@ LICENSE = "GPLv3"
 DEPENDS = "ecore eina"
 SECTION = "misc/utils"
 
-PV = "1.0+gitr${SRCPV}"
+PV = "1.0.99+gitr${SRCPV}"
 PR = "r1"
-SRCREV = "eaa525d2b2d570b117d8f4831ce69743e6e9eb69"
+#SRCREV = "eaa525d2b2d570b117d8f4831ce69743e6e9eb69"
 
 SRC_URI = "git://gitorious.org/mokosuite2/mokowm-imf-ecore.git;protocol=git"
 S = "${WORKDIR}/mokowm-imf-ecore"
