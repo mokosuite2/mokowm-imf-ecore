@@ -4,3 +4,6 @@ MAINTAINERCLEANFILES = aclocal.m4 compile config.guess config.sub \
                        mkinstalldirs config.h.in config.h.in~ INSTALL
 
 SUBDIRS = src
+
+maintainer-clean-local:
+	$(RM) -R m4
