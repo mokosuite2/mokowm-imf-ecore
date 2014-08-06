@@ -1,5 +1,5 @@
 DESCRIPTION = "Ecore input method for the Mokosuite window manager"
-HOMEPAGE = "http://gitorious.org/mokosuite2"
+HOMEPAGE = "https://gitorious.org/mokosuite2"
 AUTHOR = "Daniele Ricci"
 LICENSE = "GPLv3"
 DEPENDS = "ecore eina"
